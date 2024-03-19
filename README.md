@@ -1,1 +1,1 @@
-# discussion_javascript_CCP
+# ccp_tablet_w24
